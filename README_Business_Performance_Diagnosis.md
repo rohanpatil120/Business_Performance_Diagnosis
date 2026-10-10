@@ -92,14 +92,6 @@ Business-Performance-Diagnosis/
 ├── Business Performance Diagnosis.pbix
 ├── Superstore_Cleaned.xls
 ├── README.md
-└── Dashboard_Screenshots/
-    ├── Yearly Sales vs Profit Trend.jpeg
-    ├── Sales by Product Category.jpeg
-    ├── Regional Sales Performance.jpeg
-    ├── Regional Profit Performance.jpeg
-    ├── Profit by Sub-category.jpeg
-    ├── Discount Level vs Sales.jpeg
-    └── Impact of Discount on Profit.jpeg
 ```
 
 Adjust filenames to match the files you upload. If you do not have
