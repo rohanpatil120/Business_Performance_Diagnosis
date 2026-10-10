@@ -75,9 +75,11 @@ Explored sales and profit across discount levels.
 
 ## Power BI Report
 
-The Power BI report includes KPI cards and visualizations for: - Sales
-and profit by year - Sales by product category - Profit by region -
- - Discount level and profit
+The Power BI report includes KPI cards and visualizations for: 
+- Sales by city
+- Sales by product category -
+-  Profit by region 
+- Discount level and profit
 
 
 
