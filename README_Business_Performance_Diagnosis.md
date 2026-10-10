@@ -72,17 +72,14 @@ Explored sales and profit across discount levels.
 -   The 70% discount group had the lowest total profit and showed a
     loss.
 
-These are observed patterns in the dataset; they do not prove that
-discounts caused changes in profit.
 
 ## Power BI Report
 
 The Power BI report includes KPI cards and visualizations for: - Sales
 and profit by year - Sales by product category - Profit by region -
-Profit by sub-category - Discount level and profit
+ - Discount level and profit
 
-The report is saved as a `.pbix` file and can be opened in Power BI
-Desktop.
+
 
 ## Suggested Repository Structure
 
@@ -94,9 +91,7 @@ Business-Performance-Diagnosis/
 ├── README.md
 ```
 
-Adjust filenames to match the files you upload. If you do not have
-permission to redistribute the dataset, do not upload it; instead, link
-to its original source.
+
 
 ## How to Run
 
@@ -120,5 +115,5 @@ This project demonstrates a beginner-friendly analytics workflow: data
 inspection, preparation, exploratory analysis, visualization, and
 business reporting.
 
-**Author:** Namrata Rai\
+**Author:** Rohan Patil\
 **Project Type:** Data Analytics \| Portfolio Project
